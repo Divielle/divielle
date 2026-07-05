@@ -1,0 +1,19 @@
+Screenshot observations after major redesign (2026-06-02):
+
+1. Loading screen: Working beautifully - "DIVIELLE" in Bodoni Moda, no corner squares, feminine design
+2. Main site after loading:
+   - Navigation: EUR currency button (top-left), DIVIELLE logo (center-top), CLASSIC/NIGHTS toggle (top-right), MENU button
+   - Hero: 3D lipstick rendered beautifully in dark mode with gold ring, floating cap, gold particles
+   - EXPLORE button visible (bottom-left, element 9)
+   - Chatbot button visible (bottom-right, element 22)
+   - No unwanted elements (no experimental, no luxury cosmetics 2024, no (01), no (05), no IG/LI, no watermark)
+   - Classic/Nights toggle visible in top-right corner
+3. Content sections all present:
+   - ScrollStory with 3 chapters
+   - Marquee with 4 product series
+   - About section with stats (4 Series, 47 Shades, ∞ Possibilities)
+   - Collection section with 4 series (Lipstick, Lip Gloss, Palette, Brushes)
+   - Experience section with shade selector (Nude Silk, Rose Petal, Red Passion, Berry Luxe, Dark Wine)
+   - Contact section with email input
+   - Footer: Athens, Greece - no copyright 2024
+4. All elements working as expected

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://divielle.com/sitemap.xml

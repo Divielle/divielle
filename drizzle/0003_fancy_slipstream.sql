@@ -1,0 +1,1 @@
+ALTER TABLE `orderItems` ADD `variant` varchar(512);

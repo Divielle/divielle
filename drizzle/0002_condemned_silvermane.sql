@@ -1,0 +1,1 @@
+ALTER TABLE `cartItems` ADD `variant` varchar(512);

@@ -1,0 +1,63 @@
+# Project TODO
+
+- [x] Experimental redesign inspired by Filippo Ruffini
+- [x] 3D lipstick art piece with floating cap and gold ring
+- [x] Custom gold cursor with ring expansion
+- [x] Loading screen with percentage counter
+- [x] Scroll-based storytelling with parallax chapters
+- [x] Collection section with hover-follow image preview
+- [x] Interactive 3D shade explorer
+- [x] Contact section with oversized typography
+- [x] Film grain noise overlay
+- [x] Bracket-style navigation with full-screen menu
+- [x] AI Chatbot - answers brand-related questions only
+- [x] AI Chatbot - escalation flow: collect name, email, inquiry when bot cannot help
+- [x] AI Chatbot - send escalated inquiries to info@divielle.com via notification
+- [x] AI Chatbot - styled to match experimental dark aesthetic
+- [x] Backend tRPC procedure for AI chat with LLM integration
+- [x] Vitest test for chatbot procedure
+- [x] Add currency selection dropdown at top of website
+- [x] Remove corner squares from loading/main screen
+- [x] Make loading screen more dramatic and feminine
+- [x] Remove "experimental" and "The Experience" from top right corner
+- [x] Remove "Luxury cosmetics (2024)" and "(01)" gold from top left corner
+- [x] Remove "(05)" from middle left side
+- [x] Remove "IG LI Luxury cosmetics Digital Art" from bottom left corner
+- [x] Remove almost invisible "Divielle" watermark from middle of screen
+- [x] Improve the LOGO on top of screen
+- [x] Create Classic/Nights toggle with dramatic theme switching
+- [x] Classic = brighter with cold details, Nights = dark with gold details
+- [x] Update mouse pointer to makeup brand cursor
+- [x] Logo hides on scroll down, shows on scroll up
+- [x] Use a better font for the brand
+- [x] Fix Experience section - make lipstick color changing work (smooth lerp, no Canvas remount)
+- [x] Add Explore button on main screen for quick product access
+- [x] Update products to only 4: Lipstick Series, Lip Gloss Series, Palette Series, Brushes Series
+- [x] Update chatbot knowledge to reflect 4 product series
+- [x] Remove Copyright 2024 from footer
+- [x] Update Paris, France to Athens, Greece in footer
+- [x] Chatbot popup: round edges on container, message box, and send button
+- [x] Classic/Nights toggle: round outer edges, Classic = gold fill + white font, Nights = black fill + gold font
+- [x] Classic mode: fix grey/invisible fonts — rebalance colors with Pink/Red, Black, and Gold
+- [x] Add Legal page (EU-compliant for European makeup brands) accessible from navigation menu
+- [x] Product detail pages for each series (Lipstick, Lip Gloss, Palette, Brushes) with product info, reviews, stock count, add-to-cart
+- [x] Recommendations section on product pages showing other 3 products, clickable to navigate
+- [x] Cart page: custom design, quantity controls, coupon input, free shipping, VAT included notice
+- [x] Coupon system: MKDI26 = 10% off (hidden, not mentioned on site)
+- [x] Payment/checkout page with functional flow
+- [x] Currency-aware pricing (prices change based on selected currency)
+- [x] Newsletter popup on main page load (transparent, asks for email)
+- [x] Cookie consent banner (small bottom popup, accept/decline cookies + T&C)
+- [x] Payment system logos at extreme bottom of main page (EU-compliant payment types)
+- [x] Simplify mouse cursor to something simple and classy
+- [x] Random prices for products with VAT included
+- [x] Increase contrast in Classic mode: darker text (#0d0505), stronger muted colors, deeper borders, richer accent gold
+- [ ] Fix cursor reset bug (cursor jumps to top-left on button hover)
+- [ ] Fix coupon not persisting when proceeding to checkout
+- [ ] Replace built-in card payment form with external secure payment links (GDPR-compliant)
+- [ ] Remove reviews section temporarily (requires user accounts first)
+- [ ] Add 4 color options for Lipstick Series product page
+- [ ] Add 4 color options for Lip Gloss Series product page
+- [ ] Palette Series: only 1 palette option
+- [ ] Brushes Series: 12 brush options
+- [ ] Add Classic/Nights material selection (Nights=dark plastic/metal, Classic=white metal/plastic)
